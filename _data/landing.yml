@@ -45,7 +45,7 @@
 - id: blog
   i18n: nav.blog
   name: Blog
-  tpl: https://richardspal.blogspot.jp/
+  tpl: blog.html
   page: blog/
   css: testimonials navy-section
 
