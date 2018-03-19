@@ -10,8 +10,11 @@ icon: icon-announcement
 ---
 
 Hi! 
+
 I'm Miki Aso who is student in seismology and mom of 1-year-old boy.
+
 This is my first post of this blog.
+
 I will write here about my work, and also about my life.
 
 See you soon :)
