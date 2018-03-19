@@ -1,29 +1,43 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: Hiroshima University
+    i18n: hirosima_univ
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: I worked on volcanology for 3rd-year at Koji Okumura's group, and seismology for 4th-year at Naoki Suda's group in undergraduate.
+    i18n: hirosima_univ_desc
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: March 2014
+    i18n: hirosima_univ_date
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail: Recieved B.S.
+    i18n: hirosima_univ_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: The Japan Securities Scholarship Fundation (JSFF) Scholorship 
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: I receieved 3 years scholorship from JSFF.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: April 2011
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Scholorship
     i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: The University of Tokyo
+    i18n: company_c
+  desc:
+    detail: I am a master student in seismology of Satoshi Ide's group.
+    i18n: company_c_desc
+  date:
+    detail: April 2015
+    i18n: company_c_date
+  job:
+    detail: ongoing master degree
+    i18n: company_c_job
   icon: fa-plus-square
