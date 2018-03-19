@@ -21,19 +21,19 @@
 - id: grants
   i18n: nav.grants
   name: Grants
-  tpl: grants.md
+  tpl: grants.html
   css:
   
 - id: outside talk
   i18n: nav.outtalk
   name: Outside Talks
-  tpl: outtalk.md
+  tpl: outtalk.html
   css:
   
 - id: confference
   i18n: nav.confference
   name: Confference Presentations
-  tpl: confference.md
+  tpl: confference.html
   css:
 
 #- id: projects
