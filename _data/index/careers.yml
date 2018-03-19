@@ -1,6 +1,20 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: The University of Tokyo
+    i18n: company_c
+  desc:
+    detail: I am a master student in seismology of Satoshi Ide's group.
+    i18n: company_c_desc
+  date:
+    detail: from April 2015
+    i18n: company_c_date
+  job:
+    detail: ongoing master degree
+    i18n: company_c_job
+  icon: fa-plus-square
+
+- name:
     detail: Hiroshima University
     i18n: hirosima_univ
   desc:
@@ -21,23 +35,10 @@
     detail: I receieved 3 years scholorship from JSFF.
     i18n: company_b_desc
   date:
-    detail: April 2011
+    detail: from April 2011 to March 2013
     i18n: company_b_date
   job:
     detail: Scholorship
     i18n: company_b_job
   icon: fa-plus-square
 
-- name:
-    detail: The University of Tokyo
-    i18n: company_c
-  desc:
-    detail: I am a master student in seismology of Satoshi Ide's group.
-    i18n: company_c_desc
-  date:
-    detail: April 2015
-    i18n: company_c_date
-  job:
-    detail: ongoing master degree
-    i18n: company_c_job
-  icon: fa-plus-square
