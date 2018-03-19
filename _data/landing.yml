@@ -18,21 +18,39 @@
   tpl: skills.html
   css: team
 
-- id: projects
-  i18n: nav.projects
-  name: Projects
-  tpl: projects.html
-  css: project
+- id: grants
+  i18n: nav.grants
+  name: Grants
+  tpl: grants.md
+  css:
+  
+- id: outside talk
+  i18n: nav.outtalk
+  name: Outside Talks
+  tpl: outtalk.md
+  css:
+  
+- id: confference
+  i18n: nav.confference
+  name: Confference Presentations
+  tpl: confference.md
+  css:
 
-- id: blog
-  i18n: nav.blog
-  name: Blog
-  tpl: blog.html
-  page: blog/
-  css: testimonials navy-section
+#- id: projects
+#  i18n: nav.projects
+#  name: Projects
+#  tpl: projects.html
+#  css: project
 
-- id: links
-  i18n: nav.link
-  name: Links
-  tpl: links.html
-  css: contact
+#- id: blog
+#  i18n: nav.blog
+#  name: Blog
+#  tpl: blog.html
+#  page: blog/
+#  css: testimonials navy-section
+
+#- id: links
+#  i18n: nav.link
+#  name: Links
+#  tpl: links.html
+#  css: contact
