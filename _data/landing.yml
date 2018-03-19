@@ -30,11 +30,11 @@
   tpl: outtalk.html
   css:
   
-- id: confference
-  i18n: nav.confference
-  name: Confference Presentations
-  tpl: confference.html
-  css:
+#- id: confference
+#  i18n: nav.confference
+#  name: Confference Presentations
+#  tpl: confference.html
+#  css:
 
 #- id: projects
 #  i18n: nav.projects
