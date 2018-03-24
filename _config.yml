@@ -22,11 +22,11 @@ author:  # change following line to your infomation.
   email: miki.seis.aso@gmail.com  # Leave blank if you don't have now
   cv: # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
-  #skill_icon1:
-  #  - name: icon-apache
+  skill_icon1:
+    - name: icon-apache
   #  - name: fa-linux
-  #skill_icon2:
-  #  - name: fa-linux
+  skill_icon2:
+    - name: fa-linux
   #  - name: icon-apache
   desc: My name is Miki Aso. I'm a Master student in Seismology of Satoshi Ide's group at the University of Tokyo. My research is about the source of slow earthquake, especially of "low frequency earthquakes(LFEs)" or "tremors".   # Describe yourself.
 
