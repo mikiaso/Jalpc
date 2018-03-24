@@ -24,15 +24,15 @@
   tpl: grants.html
   css:
   
-- id: outside talk
+- id: outtalks
   i18n: nav.outtalk
-  name: Outside Talks
+  name: OutTalks
   tpl: outtalk.html
   css:
   
-- id: conference
+- id: presentations
   i18n: nav.conference
-  name: Conference Presentations
+  name: Presentations
   tpl: conference.html
   css:
 
