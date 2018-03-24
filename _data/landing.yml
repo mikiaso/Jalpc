@@ -45,8 +45,8 @@
 - id: blog
   i18n: nav.blog
   name: Blog
-  tpl: https://mikiseisaso.blogspot.jp/
-  page: blog/
+  tpl: blog.html
+  page: https://mikiseisaso.blogspot.jp/
   css: testimonials navy-section
 
 #- id: links
