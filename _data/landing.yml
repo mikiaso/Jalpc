@@ -27,13 +27,13 @@
 - id: outtalks
   i18n: nav.outtalk
   name: OutTalks
-  tpl: outtalk.html
+  tpl: outtalks.html
   css:
   
 - id: presentations
   i18n: nav.conference
   name: Presentations
-  tpl: conference.html
+  tpl: presentations.html
   css:
 
 #- id: projects
