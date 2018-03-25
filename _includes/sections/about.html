@@ -9,7 +9,7 @@
     
    
     <div class="row">
-        <!-- first two icons -->
+        <!-- first icons -->
         {% for icon in site.author.skill_icon1 %}
         <div class="col-xs-4 wow fadeInLeft">
             <div class="team-member">
@@ -56,11 +56,14 @@
         <!-- second two icons -->
     
         {% for icon in site.author.skill_icon2 %}
-        <div class="col-xs-2 wow fadeInRight">
+        <div class="col-xs-4 wow fadeInRight">
             <div class="team-member">
+                <img src="{{ icon.name }}" height="110" width="250" class="img-responsive" alt="">
+                <!--
                 <div class="vote-icon">
                     <i class="fa {{ icon.name }}"></i>
                 </div>
+-->
             </div>
         </div>
         {% endfor %}
