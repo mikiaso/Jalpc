@@ -3,10 +3,14 @@
 #
 # Images are expected to be located in `static/assets/img/`.
 
-- src: landing/saf.jpg
-
-- src: landing/ucb.jpg
-
-- src: landing/kumamoto.jpg
-
-- src: landing/miki.jpg
+- src: landing/barners/1.jpg
+- src: landing/barners/2.jpg
+- src: landing/barners/3.jpg
+- src: landing/barners/4.jpg
+- src: landing/barners/5.jpg
+- src: landing/barners/6.jpg
+- src: landing/barners/7.jpg
+- src: landing/barners/8.jpg
+- src: landing/barners/9.jpg
+- src: landing/barners/10.jpg
+- src: landing/barners/11.jpg
