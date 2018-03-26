@@ -2426,16 +2426,16 @@ body {
       .active > a {
         background: 0 0;
         color: #fff;
-        border-top: 6px solid #3385FF;
+        border-top: 6px solid #ef6e94;
         &:hover {
           background: 0 0;
           color: #fff;
-          border-top: 6px solid #3385FF;
+          border-top: 6px solid #ef6e94;
         }
       }
       li > a {
         &:focus, &:hover {
-          color: #3385FF;
+          color: #ef6e94;
           background: inherit;
         }
       }
@@ -2450,14 +2450,14 @@ body {
     }
     .navbar-brand {
       &:focus, &:hover {
-        background: #3385FF;
+        background: #ef6e94;
         color: #fff;
       }
       color: #fff;
       height: auto;
       display: block;
       font-size: 14px;
-      background: #3385FF;
+      background: #ef6e94;
       padding: 15px 20px;
       border-radius: 0 0 5px 5px;
       font-weight: 700;
@@ -2467,7 +2467,7 @@ body {
   .navbar-scroll.navbar-default .nav li a {
     color: #676a6c;
     &:hover {
-      color: #3385FF;
+      color: #ef6e94;
     }
   }
   .navbar-wrapper .navbar.navbar-scroll {
