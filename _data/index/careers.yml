@@ -2,13 +2,27 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
 - name:
-    detail: UC Berkeley Seismology Lab & USGS in Golden
+    detail: USGS in Golden, Colorado, USA
+    i18n: usgs
+  desc:
+    detail: I worked on seismology with David Shelly as a visiting student.
+    i18n: usgs
+  date:
+    detail: February 2018
+    i18n: usgs
+  job:
+    detail: visiting student
+    i18n: usgs
+  icon: fa-plus-square
+
+- name:
+    detail: UC Berkeley Seismology Lab, California, USA
     i18n: us2018
   desc:
-    detail: I worked on seismology with Taka'aki Taira & David Shelly as a visiting student for 3 weeks and 2 weeks, respectively.
+    detail: I worked on seismology with Taka'aki Taira as a visiting student.
     i18n: us2018
   date:
-    detail: January & February 2018
+    detail: January 2018
     i18n: us2018
   job:
     detail: visiting student
