@@ -1456,7 +1456,7 @@ code {
 }
 
 .text-navy {
-  color: #3385FF;
+  color: #ef6e94;
 }
 
 .text-primary {
@@ -1727,7 +1727,7 @@ ul.clear-list:first-child {
   }
   a {
     .text-navy {
-      color: #3385FF;
+      color: #ef6e94;
     }
     .text-primary {
       color: #1c84c6;
@@ -1806,7 +1806,7 @@ ul.clear-list:first-child {
   a {
     color: inherit;
     &:hover {
-      color: #3385FF;
+      color: #ef6e94;
     }
   }
 }
@@ -1965,7 +1965,7 @@ ul.clear-list:first-child {
   text-align: center;
   font-weight: 600;
   a {
-    color: #3385FF;
+    color: #ef6e94;
     font-weight: 600;
   }
 }
@@ -1989,7 +1989,7 @@ ul.clear-list:first-child {
     font-size: 12px;
     margin-right: 10px;
     &:hover {
-      color: #3385FF;
+      color: #ef6e94;
     }
   }
 }
@@ -1999,7 +1999,7 @@ ul.clear-list:first-child {
   font-size: 38px;
   color: #e8e9ea;
   &.active {
-    color: #3385FF;
+    color: #ef6e94;
   }
 }
 
@@ -2356,16 +2356,16 @@ body {
 
 .landing-page {
   span.navy {
-    color: #3385FF;
+    color: #ef6e94;
   }
   p.text-color {
     color: #676a6c;
   }
   a.navy-link {
-    color: #3385FF;
+    color: #ef6e94;
     text-decoration: none;
     &:hover {
-      color: #3385FF;
+      color: #ef6e94;
     }
   }
   section p {
@@ -2381,7 +2381,8 @@ body {
     width: 60px;
     height: 1px;
     margin: 60px auto 0;
-    border-bottom: 2px solid #3385FF;
+    border-bottom: 2px solid #ef6e94
+      ;
   }
   .navbar-wrapper {
     position: fixed;
