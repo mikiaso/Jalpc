@@ -1,5 +1,20 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+- name:
+    detail: UC Berkeley Seismology Lab & USGS in Golden
+    i18n: us2018
+  desc:
+    detail: I worked on seismology with Taka'aki Taira & David Shelly as a visiting student for 3 weeks and 2 weeks, respectively.
+    i18n: us2018
+  date:
+    detail: January & February 2018
+    i18n: us2018
+  job:
+    detail: visiting student
+    i18n: us2018
+  icon: fa-plus-square
+  
 - name:
     detail: The University of Tokyo
     i18n: company_c
@@ -29,7 +44,7 @@
   icon: fa-plus-square
 
 - name:
-    detail: The Japan Securities Scholarship Fundation (JSFF) Scholorship 
+    detail: The Japan Securities Scholarship Fundation Scholorship 
     i18n: company_b
   desc:
     detail: I receieved 3 years scholorship from JSFF.
