@@ -13,7 +13,7 @@
   job:
     detail: visiting student
     i18n: usgs
-  icon: fa-plus-square
+  icon: fa-circle
 
 - name:
     detail: UC Berkeley Seismology Lab, California, USA
@@ -27,7 +27,7 @@
   job:
     detail: visiting student
     i18n: us2018
-  icon: fa-plus-square
+  icon: fa-circle
   
 - name:
     detail: The University of Tokyo
@@ -69,5 +69,5 @@
   job:
     detail: Scholorship
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fa-circle
 
