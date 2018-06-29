@@ -13,7 +13,7 @@
         <li data-target="#inSlider" data-slide-to="10"></li>
     </ol>
     <div class="carousel-inner" role="listbox">
-
+background-size: cover;
         <div class="item active">
             <div class="container">
                 <div class="carousel-caption">
@@ -25,7 +25,7 @@
             <!-- Set background for slide in css -->
             <div
             class="header-back"
-            style="background-image: url({{ '/static/assets/img/' | prepend: site.baseurl }}{{ site.data.index.banners[0].src }});"
+            style="background-image: url({{ '/static/assets/img/' | prepend: site.baseurl }}{{ site.data.index.banners[0].src }}); background-size: cover;"
             title="{{ site.data.index.banners[0].title }}">
             </div>
         </div>
