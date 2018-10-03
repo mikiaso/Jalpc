@@ -2816,22 +2816,22 @@ body {
 
 
 .google-maps {
-  position: absolute;
+  //position: absolute;
   //padding-bottom: 56.25%;
-  //height: 1600;
-  //width: 2400;
+  height: 1600;
+  width: 2400;
   //width: 80%;
   //margin: 0 auto;
   //text-align: center;
-  overflow: hidden;
+  //overflow: hidden;
   display: inline-block;
   }
 
   .google-maps iframe,
   .google-maps object,
   .google-maps embed {
-  text-align: center;
-  display: inline-block;
+  //text-align: center;
+  //display: inline-block;
   //position: relative;
   //top: 0;
   //left: 0;
