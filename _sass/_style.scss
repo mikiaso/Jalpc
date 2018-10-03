@@ -2822,12 +2822,12 @@ height: 0;
 overflow: hidden;
 }
  
-.google-maps iframe {
+.google-maps iframe,
+.google-maps object,
+.google-maps embed {
 position: absolute;
 top: 0;
 left: 0;
-display: block;
 width: 100%; !important;
 height: 100%; !important;
-background: #f8b862;
 }
