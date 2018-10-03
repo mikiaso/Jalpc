@@ -2817,7 +2817,6 @@ body {
 
 .google-maps {
 position: relative;
-text-align:center;
 padding-bottom: 70%;
 padding-top: 30px;
 height: 0;
@@ -2827,7 +2826,7 @@ overflow: hidden;
 .google-maps iframe,
 .google-maps object,
 .google-maps embed {
-position: absolute;
+position: relative;
 top: 0;
 left: 0;
 width: 100%;
