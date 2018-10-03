@@ -42,11 +42,11 @@
 #  tpl: projects.html
 #  css: project
 
-#- id: visited
-#  i18n: nav.visited
-#  name: VisitedPlace
-#  tpl: visited.html
-#  css: google-maps
+- id: visited
+  i18n: nav.visited
+  name: VisitedPlace
+  tpl: visited.html
+  css:
   
 - id: blog
   i18n: nav.blog
