@@ -2816,7 +2816,8 @@ body {
 
 
 .google-maps {
-  position: relative;
+  //position: relative;
+  width: 100%;
   padding-bottom: 56.25%;
   height: 0;
   //height: 480;
@@ -2833,10 +2834,11 @@ body {
   .google-maps embed {
   //text-align: center;
   //display: inline-block;
-  position: absolute;
-  top: 0;
-  left: 0;
+  //position: absolute;
+  //top: 0;
+  //left: 0;
   width: 100%;
+  height: 100%;
   //height: 400px; 
   //height: 1600;
   //width: 2400;
