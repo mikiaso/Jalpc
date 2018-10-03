@@ -2816,16 +2816,14 @@ body {
 
 
 .google-maps {
+margin: 0 auto;
 position: relative;
-padding-bottom: 70%;
-height: 0;
+padding-top: 56.25%;
 width: 100%;
 overflow: hidden;
 }
  
-.google-maps iframe,
-.google-maps object,
-.google-maps embed {
+.google-maps iframe {
 position: absolute;
 top: 0;
 left: 0;
