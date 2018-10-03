@@ -2355,6 +2355,23 @@ body {
 
 
 .landing-page {
+  .google-maps {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  }
+
+  .google-maps iframe,
+  .google-maps object,
+  .google-maps embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 1000px; 
+  }
+  
   span.navy {
     color: #ef6e94;
   }
@@ -2707,25 +2724,7 @@ body {
         border-color: #1dc5a3;
       }
     }
-  }
-  
-  .google-maps {
-  position: relative;
-  padding-bottom: 56.25%;
-  height: 0;
-  overflow: hidden;
-  }
-
-  .google-maps iframe,
-  .google-maps object,
-  .google-maps embed {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 1000px; 
-  }
-  
+  }  
 }
 
 @media (min-width: 768px) {
