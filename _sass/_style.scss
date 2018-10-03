@@ -2818,8 +2818,8 @@ body {
 .google-maps {
   position: absolute;
   //padding-bottom: 56.25%;
-  height: 240px;
-  width: 400px;
+  height: 400px;
+  width: 600px;
   text-align: center;
   overflow: hidden;
   }
@@ -2828,10 +2828,10 @@ body {
   .google-maps object,
   .google-maps embed {
   text-align: center;
-  position: relative;
-  top: 0;
-  left: 0;
-  right: 0;
-  width: 240px;
-  height: 400px; 
+  //position: relative;
+  //top: 0;
+  //left: 0;
+  //right: 0;
+  //width: 240px;
+  //height: 400px; 
   }
