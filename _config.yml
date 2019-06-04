@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: /static/assets/img/landing/seismowave_right.jpg
   #  - name: icon-apache
-  desc: My name is Miki Aso. I'm a Master student in Seismology of Satoshi Ide's group at the University of Tokyo. My research is about the source of slow earthquake, especially of "low frequency earthquakes(LFEs)" or "tremors".   # Describe yourself.
+  desc: My name is Miki Aso. I'm working at OYO RMS Corporation. My interest is about the source of earthquake especially the difference between slow and fast earthquakes.   # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
